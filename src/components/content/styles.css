@@ -1,0 +1,9 @@
+.content {
+  font-size: calc(10px + 2vmin);
+  margin: 0 auto 40px;
+  max-width: 960px;
+}
+
+.content .list {
+  list-style: square inside;
+}
