@@ -4,7 +4,6 @@ import { Provider } from 'jotai';
 
 import './index.css';
 import Layout from './components/layout';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,5 +13,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-reportWebVitals();
